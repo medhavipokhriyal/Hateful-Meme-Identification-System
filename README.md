@@ -1,4 +1,4 @@
-# Hateful-Meme-Identification-System
+# Hateful Meme Identification System using Deep Learning Models
 
 The popularity of Internet memes grew as a result of current improvements in social
 media platforms and content-sharing websites, and today's Internet environment includes
